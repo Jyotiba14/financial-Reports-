@@ -2,7 +2,8 @@
 # INTRODUCTION 
 The financial data analysis provide view on the business and performance of the company and helps in evaluating the current and the future financial health of the company. It also helps in developing company goals and objectives, building dynamic profits, loss statements, monthly and quarterly budgeting and forecasting. Financial analysis is a valuable aspect to every organization and they should use to manage and measure its progress. If it’s carried out in the right way, it can help the organization adapt to the trends that affect its operations.  In this analysis we will be working as a financial analyst for an organization and carry out the insights from the available data. So, without adieu lets go. 
 # REPORT LINK 
-Pbix report link - https://drive.google.com/file/d/13Lft_9ZMa3fL5ceu9t7RGZY2TBnXv7lX/view?usp=sharing
+Pbix report link - https://drive.google.com/file/d/13Lft_9ZMa3fL5ceu9t7RGZY2TBnXv7lX/view?usp=sharing . 
+
 pdf report link - https://drive.google.com/file/d/1SftEmLAw_VkskCS8ACQvU-two1B5EvXN/view?usp=sharing
 # MOTIVATION 
 
