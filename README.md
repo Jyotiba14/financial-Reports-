@@ -10,12 +10,11 @@ pdf report link - https://drive.google.com/file/d/1SftEmLAw_VkskCS8ACQvU-two1B5E
 While pursuing my mechanical graduation i was exposed to "engineering economics" wherein i learned the econmoics behind the management ,operations,growth and profitiabilites of the firm ,which i put into practice while working as a maintenance enginering where i was exposed to create the monthly invoices and budgeting .Hence this analytical skills pertaining  to numbers and ratio have also kept me intrigued to it .
 
 # OBJECTIVES 
-1. Create time intelligence Measures such as 1. profit LY 2. Profit margin LY 3. Sales LY 4. Sales TY vs LY 5. Sales YTD,QTD,MTD .
-2. Creating the model relationship manually . 
+1. Creating the model relationship manually . 
+2. Create time intelligence Measures such as 1. profit LY 2. Profit margin LY 3. Sales LY 4. Sales TY vs LY 5. Sales YTD,QTD,MTD .
 3. Create a navigation page of the report using button and bookmarks 
-4. Use of Switch true statement to create the templates 
-5. Create a Date query table using the advanced editor . 
-6. Develop Income statement , finance , balance sheet , revenue insights and cash flow details 
-7. create time intelligence Measures such as 1. profit LY 2. Profit margin LY 3. Sales LY 4. Sales TY vs LY 5. Sales YTD,QTD,MTD . 
-8. Details of top-5 cities and customer with highest Revenue . 
+4. Use of Switch true statement to create the templates
+5. Create a Date query table using the advanced editor .
+6. Develop Income statement , finance , balance sheet , revenue insights and cash flow detailS. 
+7. Details of top-5 cities and customer with highest Revenue . 
 
